@@ -1,0 +1,36 @@
+% latex table generated in R 4.1.2 by xtable 1.8-4 package
+% Sun Feb  5 18:19:53 2023
+\begin{table}[ht]
+\centering
+\begin{tabular}{rlrrrl}
+  \hline
+n & method & bias & sd & mse & coverage \\ 
+  \hline
+$1.000 \times 10^{3}$ & RSR & $2.589 \times 10^{-1}$ & $1.528 \times 10^{-2}$ & $6.727 \times 10^{-2}$ & 0\% \\ 
+  $1.000 \times 10^{3}$ & spline & $6.863 \times 10^{-3}$ & $6.502 \times 10^{-3}$ & $8.930 \times 10^{-5}$ & 81\% \\ 
+  $1.000 \times 10^{3}$ & gp & $7.727 \times 10^{-3}$ & $6.770 \times 10^{-3}$ & $1.054 \times 10^{-4}$ & 76\% \\ 
+  $1.000 \times 10^{3}$ & gsem & $-8.052 \times 10^{-3}$ & $7.427 \times 10^{-3}$ & $1.199 \times 10^{-4}$ & 89\% \\ 
+  $1.000 \times 10^{3}$ & spatial\_plus & $1.084 \times 10^{-2}$ & $6.826 \times 10^{-3}$ & $1.641 \times 10^{-4}$ & 73\% \\ 
+  $1.000 \times 10^{3}$ & svc\_mle & $7.387 \times 10^{-3}$ & $6.855 \times 10^{-3}$ & $1.015 \times 10^{-4}$ &  \\ 
+  $1.000 \times 10^{3}$ & spline\_interaction & $6.801 \times 10^{-3}$ & $6.568 \times 10^{-3}$ & $8.930 \times 10^{-5}$ & 96\% \\ 
+  $1.000 \times 10^{3}$ & gp3 & $2.682 \times 10^{-3}$ & $6.939 \times 10^{-3}$ & $5.524 \times 10^{-5}$ &  \\ 
+  $1.000 \times 10^{3}$ & spline3 & $6.308 \times 10^{-2}$ & $4.068 \times 10^{-2}$ & $5.631 \times 10^{-3}$ &  \\ 
+  $1.000 \times 10^{3}$ & rf & $-1.458 \times 10^{-1}$ & $1.595 \times 10^{-2}$ & $2.152 \times 10^{-2}$ & 0\% \\ 
+  $1.000 \times 10^{3}$ & bart\_single & $7.672 \times 10^{-3}$ & $1.680 \times 10^{-2}$ & $3.405 \times 10^{-4}$ & 100\% \\ 
+  $1.000 \times 10^{3}$ & gp3\_double & $1.396 \times 10^{-3}$ & $7.065 \times 10^{-3}$ & $5.177 \times 10^{-5}$ &  \\ 
+  $1.000 \times 10^{3}$ & spline\_double & $2.998 \times 10^{-2}$ & $3.476 \times 10^{-2}$ & $2.104 \times 10^{-3}$ &  \\ 
+  $1.000 \times 10^{3}$ & bart\_double & $3.432 \times 10^{-3}$ & $1.685 \times 10^{-2}$ & $2.950 \times 10^{-4}$ & 100\% \\ 
+  $1.000 \times 10^{4}$ & RSR & $2.580 \times 10^{-1}$ & $4.749 \times 10^{-3}$ & $6.661 \times 10^{-2}$ & 0\% \\ 
+  $1.000 \times 10^{4}$ & spline & $1.630 \times 10^{-3}$ & $1.947 \times 10^{-3}$ & $6.433 \times 10^{-6}$ & 86\% \\ 
+  $1.000 \times 10^{4}$ & gp & $2.159 \times 10^{-3}$ & $1.990 \times 10^{-3}$ & $8.605 \times 10^{-6}$ & 81\% \\ 
+  $1.000 \times 10^{4}$ & gsem & $-4.939 \times 10^{-4}$ & $1.966 \times 10^{-3}$ & $4.094 \times 10^{-6}$ & 94\% \\ 
+  $1.000 \times 10^{4}$ & spatial\_plus & $5.063 \times 10^{-4}$ & $1.958 \times 10^{-3}$ & $4.075 \times 10^{-6}$ & 96\% \\ 
+  $1.000 \times 10^{4}$ & spline\_interaction & $1.614 \times 10^{-3}$ & $1.945 \times 10^{-3}$ & $6.372 \times 10^{-6}$ & 88\% \\ 
+  $1.000 \times 10^{4}$ & spline3 & $2.244 \times 10^{-2}$ & $6.780 \times 10^{-3}$ & $5.495 \times 10^{-4}$ &  \\ 
+  $1.000 \times 10^{4}$ & rf & $-7.677 \times 10^{-2}$ & $4.497 \times 10^{-3}$ & $5.914 \times 10^{-3}$ & 0\% \\ 
+  $1.000 \times 10^{4}$ & bart\_single & $2.642 \times 10^{-3}$ & $3.618 \times 10^{-3}$ & $2.002 \times 10^{-5}$ & 97\% \\ 
+  $1.000 \times 10^{4}$ & spline\_double & $6.870 \times 10^{-3}$ & $7.080 \times 10^{-3}$ & $9.712 \times 10^{-5}$ &  \\ 
+  $1.000 \times 10^{4}$ & bart\_double & $4.626 \times 10^{-4}$ & $3.586 \times 10^{-3}$ & $1.302 \times 10^{-5}$ & 100\% \\ 
+   \hline
+\end{tabular}
+\end{table}
